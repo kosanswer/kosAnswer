@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kosanswer
 - 👀 I’m interested in Web 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  /kosanswer
+- 📫 How to reach me  /kosanswer@gmail.com
 
 <!---
 kosanswer/kosanswer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
