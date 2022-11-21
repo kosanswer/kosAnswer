@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kosanswer
+- 👋 Hi, I’m Gordienko Konstantin
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning JavaScript, React JS
 - 💞️ I’m looking to collaborate on ...
