@@ -1,4 +1,5 @@
-- 👋 Hi, kosanswer;
+- 👋 Hi, everyone! 
+- My nick: kosanswer;
 - 👀 I’m interested in Web;
 - 🌱 I’m currently learning JavaScript, React JS
 - 📫 How to reach me: => kosanswer@gmail.com
