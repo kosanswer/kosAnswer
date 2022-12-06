@@ -1,6 +1,6 @@
-- 👋 Hi, everyone! 
+- 👋 Hi! 
 - My nick: kosanswer;
-- 👀 I’m interested in Web;
+- 👀 I’m interested in coding;
 - 🌱 I’m currently learning JavaScript, React JS
 - 📫 How to reach me: => kosanswer@gmail.com
 
