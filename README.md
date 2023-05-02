@@ -2,7 +2,7 @@
 - My nick: kosanswer;
 - 👀 I’m interested in coding;
 - 🌱 I’m currently learning JavaScript, React JS
-- 📫 How to reach me: => kosanswer@gmail.com
+- 📫 How to reach me: => @kosanswer
 
 <!---
 kosanswer/kosanswer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
